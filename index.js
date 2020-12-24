@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'NAMA BOTMU'; 
-const instagram = 'LINK INSTAGRAMU'; 
-const telegram = 'LINK TELEMU'; 
-const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'LINK YTMU';
+const BotName = 'Brokenz BOT'; 
+const instagram = 'https://www.instagram.com/brokenzreal/'; 
+ 
+const kapanbotaktif = 'BOT AKTIF PUKUL 08.00-22.00'; 
+const youtube = 'https://youtube.com/c/BroKenzchannelOfficial';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
